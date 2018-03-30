@@ -1,8 +1,8 @@
-//馬馬馬馬馬馬馬
+//馬馬馬馬馬馬馬 灰灰灰灰灰灰
 public class Calculator {
 
 	public static void main(String[] args) {
-		System.out.println("Calculator operation");
+		System.out.println("Calculator operation..");
 
 	}
 
